@@ -3,6 +3,6 @@
 - 🔭 I’m currently working at [OdeCloud](https://odecloud.com).
 - 🌱 Pushing the limits of AI
 - 💬 Ask me about all things web development + AI.
-- 📫 How to reach me: email me at dannyhn5@uci.edu!
+- 📫 How to reach me: email me at danny@odecloud.com!
 - 😄 Pronouns: he/him.
 - ✈️ Currently digital nomading in the Philippines!
