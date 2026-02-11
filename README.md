@@ -1,7 +1,6 @@
 ### Hi, I'm Danny! 👋
 
 - 🔭 I’m currently working at [BetterBasket (YC W24)](https://betterbasket.ai).
-- 🌱 Pushing the limits of AI
 - 💬 Ask me about all things web development + AI.
 - 📫 How to reach me: email me at nguyenhuydanny@gmail.com!
 - 😄 Pronouns: he/him.
